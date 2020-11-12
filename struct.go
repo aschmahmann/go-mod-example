@@ -6,6 +6,6 @@ func (s S) Hello() string {
 	return "hello"
 }
 
-func (s S) Func1() string {
-	return "function 1"
+func (s S) Func2() string {
+	return "function 2"
 }
